@@ -11,5 +11,5 @@ hero:
       link: /introduction
     - theme: alt
       text: View on GitHub
-      link: https://github.com/realandrew/oepngl_guide
+      link: https://github.com/realandrew/opengl_guide
 ---
